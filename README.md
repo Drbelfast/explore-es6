@@ -1,2 +1,4 @@
 # explore-es6
-test on es6
+webpack,
+babel-loader,
+babel-core
